@@ -1,0 +1,983 @@
+Computing F_300000000000
+spill  fa_39                         0.0 MB    0.00 s      0 MB/s
+spill  fb_39                         0.0 MB    0.00 s      0 MB/s
+fib    n=1                     step odd
+reload fb_39.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2b_39                         0.0 MB    0.00 s      0 MB/s
+reload 2b_39.bin                     0.0 MB    0.00 s      1 MB/s
+reload fa_39.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2bma_39                       0.0 MB    0.00 s      0 MB/s
+mul    c_39                      0.0 + 0.0 MB  (direct)
+reload fa_39.bin                     0.0 MB    0.00 s      1 MB/s
+reload 2bma_39.bin                   0.0 MB    0.00 s      1 MB/s
+spill  c_39                          0.0 MB    0.00 s      0 MB/s
+mul    c_39                      done  0.00 s
+reload fa_39.bin                     0.0 MB    0.00 s      1 MB/s
+spill  a2_39                         0.0 MB    0.00 s      0 MB/s
+reload fb_39.bin                     0.0 MB    0.00 s      1 MB/s
+spill  b2_39                         0.0 MB    0.00 s      0 MB/s
+reload a2_39.bin                     0.0 MB    0.00 s      1 MB/s
+reload b2_39.bin                     0.0 MB    0.00 s      1 MB/s
+spill  d_39                          0.0 MB    0.00 s      0 MB/s
+reload c_39.bin                      0.0 MB    0.00 s      1 MB/s
+reload d_39.bin                      0.0 MB    0.00 s      1 MB/s
+spill  cd_39                         0.0 MB    0.00 s      0 MB/s
+reload d_39.bin                      0.0 MB    0.00 s      1 MB/s
+reload cd_39.bin                     0.0 MB    0.00 s      1 MB/s
+spill  fa_38                         0.0 MB    0.00 s      0 MB/s
+spill  fb_38                         0.0 MB    0.00 s      0 MB/s
+fib    n=1                     done  0.00 s
+fib    n=2                     step even
+reload fb_38.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2b_38                         0.0 MB    0.00 s      0 MB/s
+reload 2b_38.bin                     0.0 MB    0.00 s      1 MB/s
+reload fa_38.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2bma_38                       0.0 MB    0.00 s      0 MB/s
+mul    c_38                      0.0 + 0.0 MB  (direct)
+reload fa_38.bin                     0.0 MB    0.00 s      1 MB/s
+reload 2bma_38.bin                   0.0 MB    0.00 s      1 MB/s
+spill  c_38                          0.0 MB    0.00 s      0 MB/s
+mul    c_38                      done  0.00 s
+reload fa_38.bin                     0.0 MB    0.00 s      1 MB/s
+spill  a2_38                         0.0 MB    0.00 s      0 MB/s
+reload fb_38.bin                     0.0 MB    0.00 s      1 MB/s
+spill  b2_38                         0.0 MB    0.00 s      0 MB/s
+reload a2_38.bin                     0.0 MB    0.00 s      1 MB/s
+reload b2_38.bin                     0.0 MB    0.00 s      1 MB/s
+spill  d_38                          0.0 MB    0.00 s      0 MB/s
+reload c_38.bin                      0.0 MB    0.00 s      1 MB/s
+reload d_38.bin                      0.0 MB    0.00 s      1 MB/s
+spill  fa_37                         0.0 MB    0.00 s      0 MB/s
+spill  fb_37                         0.0 MB    0.00 s      0 MB/s
+fib    n=2                     done  0.00 s
+fib    n=4                     step even
+reload fb_37.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2b_37                         0.0 MB    0.00 s      0 MB/s
+reload 2b_37.bin                     0.0 MB    0.00 s      1 MB/s
+reload fa_37.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2bma_37                       0.0 MB    0.00 s      0 MB/s
+mul    c_37                      0.0 + 0.0 MB  (direct)
+reload fa_37.bin                     0.0 MB    0.00 s      1 MB/s
+reload 2bma_37.bin                   0.0 MB    0.00 s      1 MB/s
+spill  c_37                          0.0 MB    0.00 s      0 MB/s
+mul    c_37                      done  0.00 s
+reload fa_37.bin                     0.0 MB    0.00 s      1 MB/s
+spill  a2_37                         0.0 MB    0.00 s      0 MB/s
+reload fb_37.bin                     0.0 MB    0.00 s      1 MB/s
+spill  b2_37                         0.0 MB    0.00 s      0 MB/s
+reload a2_37.bin                     0.0 MB    0.00 s      1 MB/s
+reload b2_37.bin                     0.0 MB    0.00 s      1 MB/s
+spill  d_37                          0.0 MB    0.00 s      0 MB/s
+reload c_37.bin                      0.0 MB    0.00 s      1 MB/s
+reload d_37.bin                      0.0 MB    0.00 s      1 MB/s
+spill  fa_36                         0.0 MB    0.00 s      0 MB/s
+spill  fb_36                         0.0 MB    0.00 s      0 MB/s
+fib    n=4                     done  0.00 s
+fib    n=8                     step even
+reload fb_36.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2b_36                         0.0 MB    0.00 s      0 MB/s
+reload 2b_36.bin                     0.0 MB    0.00 s      1 MB/s
+reload fa_36.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2bma_36                       0.0 MB    0.00 s      0 MB/s
+mul    c_36                      0.0 + 0.0 MB  (direct)
+reload fa_36.bin                     0.0 MB    0.00 s      1 MB/s
+reload 2bma_36.bin                   0.0 MB    0.00 s      1 MB/s
+spill  c_36                          0.0 MB    0.00 s      0 MB/s
+mul    c_36                      done  0.00 s
+reload fa_36.bin                     0.0 MB    0.00 s      1 MB/s
+spill  a2_36                         0.0 MB    0.00 s      0 MB/s
+reload fb_36.bin                     0.0 MB    0.00 s      1 MB/s
+spill  b2_36                         0.0 MB    0.00 s      0 MB/s
+reload a2_36.bin                     0.0 MB    0.00 s      1 MB/s
+reload b2_36.bin                     0.0 MB    0.00 s      1 MB/s
+spill  d_36                          0.0 MB    0.00 s      0 MB/s
+reload c_36.bin                      0.0 MB    0.00 s      1 MB/s
+reload d_36.bin                      0.0 MB    0.00 s      1 MB/s
+spill  fa_35                         0.0 MB    0.00 s      0 MB/s
+spill  fb_35                         0.0 MB    0.00 s      0 MB/s
+fib    n=8                     done  0.00 s
+fib    n=17                    step odd
+reload fb_35.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2b_35                         0.0 MB    0.00 s      0 MB/s
+reload 2b_35.bin                     0.0 MB    0.00 s      1 MB/s
+reload fa_35.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2bma_35                       0.0 MB    0.00 s      0 MB/s
+mul    c_35                      0.0 + 0.0 MB  (direct)
+reload fa_35.bin                     0.0 MB    0.00 s      1 MB/s
+reload 2bma_35.bin                   0.0 MB    0.00 s      1 MB/s
+spill  c_35                          0.0 MB    0.00 s      0 MB/s
+mul    c_35                      done  0.00 s
+reload fa_35.bin                     0.0 MB    0.00 s      1 MB/s
+spill  a2_35                         0.0 MB    0.00 s      0 MB/s
+reload fb_35.bin                     0.0 MB    0.00 s      1 MB/s
+spill  b2_35                         0.0 MB    0.00 s      0 MB/s
+reload a2_35.bin                     0.0 MB    0.00 s      1 MB/s
+reload b2_35.bin                     0.0 MB    0.00 s      1 MB/s
+spill  d_35                          0.0 MB    0.00 s      0 MB/s
+reload c_35.bin                      0.0 MB    0.00 s      0 MB/s
+reload d_35.bin                      0.0 MB    0.00 s      0 MB/s
+spill  cd_35                         0.0 MB    0.00 s      0 MB/s
+reload d_35.bin                      0.0 MB    0.00 s      0 MB/s
+reload cd_35.bin                     0.0 MB    0.00 s      1 MB/s
+spill  fa_34                         0.0 MB    0.00 s      0 MB/s
+spill  fb_34                         0.0 MB    0.00 s      0 MB/s
+fib    n=17                    done  0.00 s
+fib    n=34                    step even
+reload fb_34.bin                     0.0 MB    0.00 s      0 MB/s
+spill  2b_34                         0.0 MB    0.00 s      0 MB/s
+reload 2b_34.bin                     0.0 MB    0.00 s      1 MB/s
+reload fa_34.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2bma_34                       0.0 MB    0.00 s      0 MB/s
+mul    c_34                      0.0 + 0.0 MB  (direct)
+reload fa_34.bin                     0.0 MB    0.00 s      0 MB/s
+reload 2bma_34.bin                   0.0 MB    0.00 s      1 MB/s
+spill  c_34                          0.0 MB    0.00 s      0 MB/s
+mul    c_34                      done  0.00 s
+reload fa_34.bin                     0.0 MB    0.00 s      0 MB/s
+spill  a2_34                         0.0 MB    0.00 s      0 MB/s
+reload fb_34.bin                     0.0 MB    0.00 s      0 MB/s
+spill  b2_34                         0.0 MB    0.00 s      0 MB/s
+reload a2_34.bin                     0.0 MB    0.00 s      0 MB/s
+reload b2_34.bin                     0.0 MB    0.00 s      1 MB/s
+spill  d_34                          0.0 MB    0.00 s      0 MB/s
+reload c_34.bin                      0.0 MB    0.00 s      0 MB/s
+reload d_34.bin                      0.0 MB    0.00 s      1 MB/s
+spill  fa_33                         0.0 MB    0.00 s      0 MB/s
+spill  fb_33                         0.0 MB    0.00 s      0 MB/s
+fib    n=34                    done  0.00 s
+fib    n=69                    step odd
+reload fb_33.bin                     0.0 MB    0.00 s      0 MB/s
+spill  2b_33                         0.0 MB    0.00 s      0 MB/s
+reload 2b_33.bin                     0.0 MB    0.00 s      1 MB/s
+reload fa_33.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2bma_33                       0.0 MB    0.00 s      0 MB/s
+mul    c_33                      0.0 + 0.0 MB  (direct)
+reload fa_33.bin                     0.0 MB    0.00 s      0 MB/s
+reload 2bma_33.bin                   0.0 MB    0.00 s      1 MB/s
+spill  c_33                          0.0 MB    0.00 s      0 MB/s
+mul    c_33                      done  0.00 s
+reload fa_33.bin                     0.0 MB    0.00 s      0 MB/s
+spill  a2_33                         0.0 MB    0.00 s      0 MB/s
+reload fb_33.bin                     0.0 MB    0.00 s      0 MB/s
+spill  b2_33                         0.0 MB    0.00 s      0 MB/s
+reload a2_33.bin                     0.0 MB    0.00 s      0 MB/s
+reload b2_33.bin                     0.0 MB    0.00 s      1 MB/s
+spill  d_33                          0.0 MB    0.00 s      0 MB/s
+reload c_33.bin                      0.0 MB    0.00 s      0 MB/s
+reload d_33.bin                      0.0 MB    0.00 s      1 MB/s
+spill  cd_33                         0.0 MB    0.00 s      0 MB/s
+reload d_33.bin                      0.0 MB    0.00 s      0 MB/s
+reload cd_33.bin                     0.0 MB    0.00 s      1 MB/s
+spill  fa_32                         0.0 MB    0.00 s      0 MB/s
+spill  fb_32                         0.0 MB    0.00 s      0 MB/s
+fib    n=69                    done  0.00 s
+fib    n=139                   step odd
+reload fb_32.bin                     0.0 MB    0.00 s      0 MB/s
+spill  2b_32                         0.0 MB    0.00 s      0 MB/s
+reload 2b_32.bin                     0.0 MB    0.00 s      1 MB/s
+reload fa_32.bin                     0.0 MB    0.00 s      1 MB/s
+spill  2bma_32                       0.0 MB    0.00 s      0 MB/s
+mul    c_32                      0.0 + 0.0 MB  (direct)
+reload fa_32.bin                     0.0 MB    0.00 s      0 MB/s
+reload 2bma_32.bin                   0.0 MB    0.00 s      1 MB/s
+spill  c_32                          0.0 MB    0.00 s      0 MB/s
+mul    c_32                      done  0.00 s
+reload fa_32.bin                     0.0 MB    0.00 s      0 MB/s
+spill  a2_32                         0.0 MB    0.00 s      1 MB/s
+reload fb_32.bin                     0.0 MB    0.00 s      1 MB/s
+spill  b2_32                         0.0 MB    0.00 s      1 MB/s
+reload a2_32.bin                     0.0 MB    0.00 s      2 MB/s
+reload b2_32.bin                     0.0 MB    0.00 s      3 MB/s
+spill  d_32                          0.0 MB    0.00 s      1 MB/s
+reload c_32.bin                      0.0 MB    0.00 s      2 MB/s
+reload d_32.bin                      0.0 MB    0.00 s      3 MB/s
+spill  cd_32                         0.0 MB    0.00 s      1 MB/s
+reload d_32.bin                      0.0 MB    0.00 s      2 MB/s
+reload cd_32.bin                     0.0 MB    0.00 s      3 MB/s
+spill  fa_31                         0.0 MB    0.00 s      1 MB/s
+spill  fb_31                         0.0 MB    0.00 s      1 MB/s
+fib    n=139                   done  0.00 s
+fib    n=279                   step odd
+reload fb_31.bin                     0.0 MB    0.00 s      2 MB/s
+spill  2b_31                         0.0 MB    0.00 s      1 MB/s
+reload 2b_31.bin                     0.0 MB    0.00 s      3 MB/s
+reload fa_31.bin                     0.0 MB    0.00 s      4 MB/s
+spill  2bma_31                       0.0 MB    0.00 s      1 MB/s
+mul    c_31                      0.0 + 0.0 MB  (direct)
+reload fa_31.bin                     0.0 MB    0.00 s      2 MB/s
+reload 2bma_31.bin                   0.0 MB    0.00 s      4 MB/s
+spill  c_31                          0.0 MB    0.00 s      1 MB/s
+mul    c_31                      done  0.00 s
+reload fa_31.bin                     0.0 MB    0.00 s      2 MB/s
+spill  a2_31                         0.0 MB    0.00 s      1 MB/s
+reload fb_31.bin                     0.0 MB    0.00 s      2 MB/s
+spill  b2_31                         0.0 MB    0.00 s      2 MB/s
+reload a2_31.bin                     0.0 MB    0.00 s      3 MB/s
+reload b2_31.bin                     0.0 MB    0.00 s      7 MB/s
+spill  d_31                          0.0 MB    0.00 s      2 MB/s
+reload c_31.bin                      0.0 MB    0.00 s      3 MB/s
+reload d_31.bin                      0.0 MB    0.00 s      6 MB/s
+spill  cd_31                         0.0 MB    0.00 s      2 MB/s
+reload d_31.bin                      0.0 MB    0.00 s      4 MB/s
+reload cd_31.bin                     0.0 MB    0.00 s      5 MB/s
+spill  fa_30                         0.0 MB    0.00 s      2 MB/s
+spill  fb_30                         0.0 MB    0.00 s      2 MB/s
+fib    n=279                   done  0.00 s
+fib    n=558                   step even
+reload fb_30.bin                     0.0 MB    0.00 s      5 MB/s
+spill  2b_30                         0.0 MB    0.00 s      2 MB/s
+reload 2b_30.bin                     0.0 MB    0.00 s      5 MB/s
+reload fa_30.bin                     0.0 MB    0.00 s      7 MB/s
+spill  2bma_30                       0.0 MB    0.00 s      2 MB/s
+mul    c_30                      0.0 + 0.0 MB  (direct)
+reload fa_30.bin                     0.0 MB    0.00 s      4 MB/s
+reload 2bma_30.bin                   0.0 MB    0.00 s      7 MB/s
+spill  c_30                          0.0 MB    0.00 s      3 MB/s
+mul    c_30                      done  0.00 s
+reload fa_30.bin                     0.0 MB    0.00 s      3 MB/s
+spill  a2_30                         0.0 MB    0.00 s      2 MB/s
+reload fb_30.bin                     0.0 MB    0.00 s      4 MB/s
+spill  b2_30                         0.0 MB    0.00 s      3 MB/s
+reload a2_30.bin                     0.0 MB    0.00 s      7 MB/s
+reload b2_30.bin                     0.0 MB    0.00 s     11 MB/s
+spill  d_30                          0.0 MB    0.00 s      3 MB/s
+reload c_30.bin                      0.0 MB    0.00 s      6 MB/s
+reload d_30.bin                      0.0 MB    0.00 s      8 MB/s
+spill  fa_29                         0.0 MB    0.00 s      1 MB/s
+spill  fb_29                         0.0 MB    0.00 s      3 MB/s
+fib    n=558                   done  0.00 s
+fib    n=1117                  step odd
+reload fb_29.bin                     0.0 MB    0.00 s      8 MB/s
+spill  2b_29                         0.0 MB    0.00 s      3 MB/s
+reload 2b_29.bin                     0.0 MB    0.00 s      9 MB/s
+reload fa_29.bin                     0.0 MB    0.00 s     13 MB/s
+spill  2bma_29                       0.0 MB    0.00 s      3 MB/s
+mul    c_29                      0.0 + 0.0 MB  (direct)
+reload fa_29.bin                     0.0 MB    0.00 s      7 MB/s
+reload 2bma_29.bin                   0.0 MB    0.00 s     12 MB/s
+spill  c_29                          0.0 MB    0.00 s      5 MB/s
+mul    c_29                      done  0.00 s
+reload fa_29.bin                     0.0 MB    0.00 s      8 MB/s
+spill  a2_29                         0.0 MB    0.00 s      6 MB/s
+reload fb_29.bin                     0.0 MB    0.00 s      7 MB/s
+spill  b2_29                         0.0 MB    0.00 s      5 MB/s
+reload a2_29.bin                     0.0 MB    0.00 s     15 MB/s
+reload b2_29.bin                     0.0 MB    0.00 s     22 MB/s
+spill  d_29                          0.0 MB    0.00 s      6 MB/s
+reload c_29.bin                      0.0 MB    0.00 s     13 MB/s
+reload d_29.bin                      0.0 MB    0.00 s     20 MB/s
+spill  cd_29                         0.0 MB    0.00 s      6 MB/s
+reload d_29.bin                      0.0 MB    0.00 s     13 MB/s
+reload cd_29.bin                     0.0 MB    0.00 s     16 MB/s
+spill  fa_28                         0.0 MB    0.00 s      5 MB/s
+spill  fb_28                         0.0 MB    0.00 s      6 MB/s
+fib    n=1117                  done  0.00 s
+fib    n=2235                  step odd
+reload fb_28.bin                     0.0 MB    0.00 s     15 MB/s
+spill  2b_28                         0.0 MB    0.00 s      6 MB/s
+reload 2b_28.bin                     0.0 MB    0.00 s     17 MB/s
+reload fa_28.bin                     0.0 MB    0.00 s     23 MB/s
+spill  2bma_28                       0.0 MB    0.00 s      6 MB/s
+mul    c_28                      0.0 + 0.0 MB  (direct)
+reload fa_28.bin                     0.0 MB    0.00 s     13 MB/s
+reload 2bma_28.bin                   0.0 MB    0.00 s     22 MB/s
+spill  c_28                          0.0 MB    0.00 s     11 MB/s
+mul    c_28                      done  0.00 s
+reload fa_28.bin                     0.0 MB    0.00 s     14 MB/s
+spill  a2_28                         0.0 MB    0.00 s     10 MB/s
+reload fb_28.bin                     0.0 MB    0.00 s     13 MB/s
+spill  b2_28                         0.0 MB    0.00 s     11 MB/s
+reload a2_28.bin                     0.0 MB    0.00 s     26 MB/s
+reload b2_28.bin                     0.0 MB    0.00 s     22 MB/s
+spill  d_28                          0.0 MB    0.00 s     10 MB/s
+reload c_28.bin                      0.0 MB    0.00 s     26 MB/s
+reload d_28.bin                      0.0 MB    0.00 s     41 MB/s
+spill  cd_28                         0.0 MB    0.00 s     10 MB/s
+reload d_28.bin                      0.0 MB    0.00 s     25 MB/s
+reload cd_28.bin                     0.0 MB    0.00 s     32 MB/s
+spill  fa_27                         0.0 MB    0.00 s     10 MB/s
+spill  fb_27                         0.0 MB    0.00 s     11 MB/s
+fib    n=2235                  done  0.00 s
+fib    n=4470                  step even
+reload fb_27.bin                     0.0 MB    0.00 s     29 MB/s
+spill  2b_27                         0.0 MB    0.00 s     12 MB/s
+reload 2b_27.bin                     0.0 MB    0.00 s     31 MB/s
+reload fa_27.bin                     0.0 MB    0.00 s     43 MB/s
+spill  2bma_27                       0.0 MB    0.00 s     12 MB/s
+mul    c_27                      0.0 + 0.0 MB  (direct)
+reload fa_27.bin                     0.0 MB    0.00 s     22 MB/s
+reload 2bma_27.bin                   0.0 MB    0.00 s     41 MB/s
+spill  c_27                          0.0 MB    0.00 s     21 MB/s
+mul    c_27                      done  0.00 s
+reload fa_27.bin                     0.0 MB    0.00 s     27 MB/s
+spill  a2_27                         0.0 MB    0.00 s     20 MB/s
+reload fb_27.bin                     0.0 MB    0.00 s     26 MB/s
+spill  b2_27                         0.0 MB    0.00 s     21 MB/s
+reload a2_27.bin                     0.0 MB    0.00 s     51 MB/s
+reload b2_27.bin                     0.0 MB    0.00 s     77 MB/s
+spill  d_27                          0.0 MB    0.00 s     21 MB/s
+reload c_27.bin                      0.0 MB    0.00 s     54 MB/s
+reload d_27.bin                      0.0 MB    0.00 s     62 MB/s
+spill  fa_26                         0.0 MB    0.00 s     20 MB/s
+spill  fb_26                         0.0 MB    0.00 s     23 MB/s
+fib    n=4470                  done  0.00 s
+fib    n=8940                  step even
+reload fb_26.bin                     0.0 MB    0.00 s     58 MB/s
+spill  2b_26                         0.0 MB    0.00 s     22 MB/s
+reload 2b_26.bin                     0.0 MB    0.00 s     62 MB/s
+reload fa_26.bin                     0.0 MB    0.00 s     72 MB/s
+spill  2bma_26                       0.0 MB    0.00 s     23 MB/s
+mul    c_26                      0.0 + 0.0 MB  (direct)
+reload fa_26.bin                     0.0 MB    0.00 s     47 MB/s
+reload 2bma_26.bin                   0.0 MB    0.00 s     81 MB/s
+spill  c_26                          0.0 MB    0.00 s     32 MB/s
+mul    c_26                      done  0.00 s
+reload fa_26.bin                     0.0 MB    0.00 s     48 MB/s
+spill  a2_26                         0.0 MB    0.00 s     36 MB/s
+reload fb_26.bin                     0.0 MB    0.00 s     47 MB/s
+spill  b2_26                         0.0 MB    0.00 s     40 MB/s
+reload a2_26.bin                     0.0 MB    0.00 s    103 MB/s
+reload b2_26.bin                     0.0 MB    0.00 s    139 MB/s
+spill  d_26                          0.0 MB    0.00 s     28 MB/s
+reload c_26.bin                      0.0 MB    0.00 s     74 MB/s
+reload d_26.bin                      0.0 MB    0.00 s    107 MB/s
+spill  fa_25                         0.0 MB    0.00 s     18 MB/s
+spill  fb_25                         0.0 MB    0.00 s     37 MB/s
+fib    n=8940                  done  0.00 s
+fib    n=17881                 step odd
+reload fb_25.bin                     0.0 MB    0.00 s    110 MB/s
+spill  2b_25                         0.0 MB    0.00 s     41 MB/s
+reload 2b_25.bin                     0.0 MB    0.00 s    113 MB/s
+reload fa_25.bin                     0.0 MB    0.00 s    157 MB/s
+spill  2bma_25                       0.0 MB    0.00 s     44 MB/s
+mul    c_25                      0.0 + 0.0 MB  (direct)
+reload fa_25.bin                     0.0 MB    0.00 s     88 MB/s
+reload 2bma_25.bin                   0.0 MB    0.00 s    156 MB/s
+spill  c_25                          0.0 MB    0.00 s     67 MB/s
+mul    c_25                      done  0.00 s
+reload fa_25.bin                     0.0 MB    0.00 s     95 MB/s
+spill  a2_25                         0.0 MB    0.00 s     74 MB/s
+reload fb_25.bin                     0.0 MB    0.00 s     93 MB/s
+spill  b2_25                         0.0 MB    0.00 s     77 MB/s
+reload a2_25.bin                     0.0 MB    0.00 s    197 MB/s
+reload b2_25.bin                     0.0 MB    0.00 s    175 MB/s
+spill  d_25                          0.0 MB    0.00 s     76 MB/s
+reload c_25.bin                      0.0 MB    0.00 s    193 MB/s
+reload d_25.bin                      0.0 MB    0.00 s    278 MB/s
+spill  cd_25                         0.0 MB    0.00 s     67 MB/s
+reload d_25.bin                      0.0 MB    0.00 s    178 MB/s
+reload cd_25.bin                     0.0 MB    0.00 s    223 MB/s
+spill  fa_24                         0.0 MB    0.00 s     70 MB/s
+spill  fb_24                         0.0 MB    0.00 s     80 MB/s
+fib    n=17881                 done  0.00 s
+fib    n=35762                 step even
+reload fb_24.bin                     0.0 MB    0.00 s    190 MB/s
+spill  2b_24                         0.0 MB    0.00 s     81 MB/s
+reload 2b_24.bin                     0.0 MB    0.00 s    218 MB/s
+reload fa_24.bin                     0.0 MB    0.00 s    304 MB/s
+spill  2bma_24                       0.0 MB    0.00 s     84 MB/s
+mul    c_24                      0.0 + 0.0 MB  (direct)
+reload fa_24.bin                     0.0 MB    0.00 s    172 MB/s
+reload 2bma_24.bin                   0.0 MB    0.00 s    287 MB/s
+spill  c_24                          0.0 MB    0.00 s    138 MB/s
+mul    c_24                      done  0.00 s
+reload fa_24.bin                     0.0 MB    0.00 s    186 MB/s
+spill  a2_24                         0.0 MB    0.00 s    116 MB/s
+reload fb_24.bin                     0.0 MB    0.00 s    108 MB/s
+spill  b2_24                         0.0 MB    0.00 s     60 MB/s
+reload a2_24.bin                     0.0 MB    0.00 s    207 MB/s
+reload b2_24.bin                     0.0 MB    0.00 s    254 MB/s
+spill  d_24                          0.0 MB    0.00 s     78 MB/s
+reload c_24.bin                      0.0 MB    0.00 s    224 MB/s
+reload d_24.bin                      0.0 MB    0.00 s    299 MB/s
+spill  fa_23                         0.0 MB    0.00 s     83 MB/s
+spill  fb_23                         0.0 MB    0.00 s     84 MB/s
+fib    n=35762                 done  0.00 s
+fib    n=71525                 step odd
+reload fb_23.bin                     0.0 MB    0.00 s     91 MB/s
+spill  2b_23                         0.0 MB    0.00 s     90 MB/s
+reload 2b_23.bin                     0.0 MB    0.00 s    253 MB/s
+reload fa_23.bin                     0.0 MB    0.00 s    371 MB/s
+spill  2bma_23                       0.0 MB    0.00 s     91 MB/s
+mul    c_23                      0.0 + 0.0 MB  (direct)
+reload fa_23.bin                     0.0 MB    0.00 s    212 MB/s
+reload 2bma_23.bin                   0.0 MB    0.00 s    311 MB/s
+spill  c_23                          0.0 MB    0.00 s    128 MB/s
+mul    c_23                      done  0.00 s
+reload fa_23.bin                     0.0 MB    0.00 s    229 MB/s
+spill  a2_23                         0.0 MB    0.00 s    111 MB/s
+reload fb_23.bin                     0.0 MB    0.00 s     81 MB/s
+spill  b2_23                         0.0 MB    0.00 s    211 MB/s
+reload a2_23.bin                     0.0 MB    0.00 s    575 MB/s
+reload b2_23.bin                     0.0 MB    0.00 s    572 MB/s
+spill  d_23                          0.0 MB    0.00 s    243 MB/s
+reload c_23.bin                      0.0 MB    0.00 s    218 MB/s
+reload d_23.bin                      0.0 MB    0.00 s    850 MB/s
+spill  cd_23                         0.0 MB    0.00 s    247 MB/s
+reload d_23.bin                      0.0 MB    0.00 s    620 MB/s
+reload cd_23.bin                     0.0 MB    0.00 s    761 MB/s
+spill  fa_22                         0.0 MB    0.00 s    258 MB/s
+spill  fb_22                         0.0 MB    0.00 s    157 MB/s
+fib    n=71525                 done  0.00 s
+fib    n=143051                step odd
+reload fb_22.bin                     0.0 MB    0.00 s    437 MB/s
+spill  2b_22                         0.0 MB    0.00 s    163 MB/s
+reload 2b_22.bin                     0.0 MB    0.00 s    466 MB/s
+reload fa_22.bin                     0.0 MB    0.00 s    580 MB/s
+spill  2bma_22                       0.0 MB    0.00 s    172 MB/s
+mul    c_22                      0.0 + 0.0 MB  (direct)
+reload fa_22.bin                     0.0 MB    0.00 s    449 MB/s
+reload 2bma_22.bin                   0.0 MB    0.00 s    710 MB/s
+spill  c_22                          0.0 MB    0.00 s    271 MB/s
+mul    c_22                      done  0.00 s
+reload fa_22.bin                     0.0 MB    0.00 s    524 MB/s
+spill  a2_22                         0.0 MB    0.00 s    299 MB/s
+reload fb_22.bin                     0.0 MB    0.00 s    502 MB/s
+spill  b2_22                         0.0 MB    0.00 s    307 MB/s
+reload a2_22.bin                     0.0 MB    0.00 s    981 MB/s
+reload b2_22.bin                     0.0 MB    0.00 s    884 MB/s
+spill  d_22                          0.0 MB    0.00 s    314 MB/s
+reload c_22.bin                      0.0 MB    0.00 s    969 MB/s
+reload d_22.bin                      0.0 MB    0.00 s   1198 MB/s
+spill  cd_22                         0.0 MB    0.00 s    331 MB/s
+reload d_22.bin                      0.0 MB    0.00 s    914 MB/s
+reload cd_22.bin                     0.0 MB    0.00 s   1100 MB/s
+spill  fa_21                         0.0 MB    0.00 s    342 MB/s
+spill  fb_21                         0.0 MB    0.00 s    362 MB/s
+fib    n=143051                done  0.00 s
+fib    n=286102                step even
+reload fb_21.bin                     0.0 MB    0.00 s    926 MB/s
+spill  2b_21                         0.0 MB    0.00 s    352 MB/s
+reload 2b_21.bin                     0.0 MB    0.00 s   1074 MB/s
+reload fa_21.bin                     0.0 MB    0.00 s   1293 MB/s
+spill  2bma_21                       0.0 MB    0.00 s    334 MB/s
+mul    c_21                      0.0 + 0.0 MB  (direct)
+reload fa_21.bin                     0.0 MB    0.00 s    890 MB/s
+reload 2bma_21.bin                   0.0 MB    0.00 s   1261 MB/s
+spill  c_21                          0.0 MB    0.00 s    461 MB/s
+mul    c_21                      done  0.00 s
+reload fa_21.bin                     0.0 MB    0.00 s    930 MB/s
+spill  a2_21                         0.0 MB    0.00 s    498 MB/s
+reload fb_21.bin                     0.0 MB    0.00 s    884 MB/s
+spill  b2_21                         0.0 MB    0.00 s    503 MB/s
+reload a2_21.bin                     0.0 MB    0.00 s   1678 MB/s
+reload b2_21.bin                     0.0 MB    0.00 s   1518 MB/s
+spill  d_21                          0.0 MB    0.00 s    483 MB/s
+reload c_21.bin                      0.0 MB    0.00 s   1554 MB/s
+reload d_21.bin                      0.0 MB    0.00 s   1657 MB/s
+spill  fa_20                         0.0 MB    0.00 s    516 MB/s
+spill  fb_20                         0.0 MB    0.00 s    533 MB/s
+fib    n=286102                done  0.00 s
+fib    n=572204                step even
+reload fb_20.bin                     0.0 MB    0.00 s   1662 MB/s
+spill  2b_20                         0.0 MB    0.00 s    497 MB/s
+reload 2b_20.bin                     0.0 MB    0.00 s   1676 MB/s
+reload fa_20.bin                     0.0 MB    0.00 s   1903 MB/s
+spill  2bma_20                       0.0 MB    0.00 s    509 MB/s
+mul    c_20                      0.0 + 0.0 MB  (direct)
+reload fa_20.bin                     0.0 MB    0.00 s   1417 MB/s
+reload 2bma_20.bin                   0.0 MB    0.00 s   1805 MB/s
+spill  c_20                          0.0 MB    0.00 s    759 MB/s
+mul    c_20                      done  0.00 s
+reload fa_20.bin                     0.0 MB    0.00 s   1637 MB/s
+spill  a2_20                         0.0 MB    0.00 s    972 MB/s
+reload fb_20.bin                     0.0 MB    0.00 s   1612 MB/s
+spill  b2_20                         0.0 MB    0.00 s    975 MB/s
+reload a2_20.bin                     0.0 MB    0.00 s   3320 MB/s
+reload b2_20.bin                     0.0 MB    0.00 s   3780 MB/s
+spill  d_20                          0.0 MB    0.00 s    929 MB/s
+reload c_20.bin                      0.0 MB    0.00 s   3052 MB/s
+reload d_20.bin                      0.0 MB    0.00 s   3603 MB/s
+spill  fa_19                         0.0 MB    0.00 s   1143 MB/s
+spill  fb_19                         0.0 MB    0.00 s   1133 MB/s
+fib    n=572204                done  0.00 s
+fib    n=1144409               step odd
+reload fb_19.bin                     0.0 MB    0.00 s   3521 MB/s
+spill  2b_19                         0.0 MB    0.00 s   1100 MB/s
+reload 2b_19.bin                     0.0 MB    0.00 s   3470 MB/s
+reload fa_19.bin                     0.0 MB    0.00 s   3768 MB/s
+spill  2bma_19                       0.0 MB    0.00 s    554 MB/s
+mul    c_19                      0.0 + 0.0 MB  (direct)
+reload fa_19.bin                     0.0 MB    0.00 s   2797 MB/s
+reload 2bma_19.bin                   0.0 MB    0.00 s   3859 MB/s
+spill  c_19                          0.1 MB    0.00 s   1206 MB/s
+mul    c_19                      done  0.00 s
+reload fa_19.bin                     0.0 MB    0.00 s   2875 MB/s
+spill  a2_19                         0.1 MB    0.00 s   1297 MB/s
+reload fb_19.bin                     0.0 MB    0.00 s   2445 MB/s
+spill  b2_19                         0.1 MB    0.00 s   1333 MB/s
+reload a2_19.bin                     0.1 MB    0.00 s   4724 MB/s
+reload b2_19.bin                     0.1 MB    0.00 s   3047 MB/s
+spill  d_19                          0.1 MB    0.00 s   1314 MB/s
+reload c_19.bin                      0.1 MB    0.00 s   4196 MB/s
+reload d_19.bin                      0.1 MB    0.00 s   2962 MB/s
+spill  cd_19                         0.1 MB    0.00 s   1471 MB/s
+reload d_19.bin                      0.1 MB    0.00 s   3641 MB/s
+reload cd_19.bin                     0.1 MB    0.00 s   2948 MB/s
+spill  fa_18                         0.1 MB    0.00 s   1563 MB/s
+spill  fb_18                         0.1 MB    0.00 s   1555 MB/s
+fib    n=1144409               done  0.00 s
+fib    n=2288818               step even
+reload fb_18.bin                     0.1 MB    0.00 s   4951 MB/s
+spill  2b_18                         0.1 MB    0.00 s   1527 MB/s
+reload 2b_18.bin                     0.1 MB    0.00 s   5034 MB/s
+reload fa_18.bin                     0.1 MB    0.00 s   3069 MB/s
+spill  2bma_18                       0.1 MB    0.00 s   1483 MB/s
+mul    c_18                      0.1 + 0.1 MB  (direct)
+reload fa_18.bin                     0.1 MB    0.00 s   3735 MB/s
+reload 2bma_18.bin                   0.1 MB    0.00 s   3037 MB/s
+spill  c_18                          0.2 MB    0.00 s   1370 MB/s
+mul    c_18                      done  0.00 s
+reload fa_18.bin                     0.1 MB    0.00 s   3975 MB/s
+spill  a2_18                         0.2 MB    0.00 s   1571 MB/s
+reload fb_18.bin                     0.1 MB    0.00 s   3398 MB/s
+spill  b2_18                         0.2 MB    0.00 s   1188 MB/s
+reload a2_18.bin                     0.2 MB    0.00 s   5201 MB/s
+reload b2_18.bin                     0.2 MB    0.00 s   5697 MB/s
+spill  d_18                          0.2 MB    0.00 s   1218 MB/s
+reload c_18.bin                      0.2 MB    0.00 s   4902 MB/s
+reload d_18.bin                      0.2 MB    0.00 s   3488 MB/s
+spill  fa_17                         0.2 MB    0.00 s   1135 MB/s
+spill  fb_17                         0.2 MB    0.00 s   1328 MB/s
+fib    n=2288818               done  0.01 s
+fib    n=4577636               step even
+reload fb_17.bin                     0.2 MB    0.00 s   5572 MB/s
+spill  2b_17                         0.2 MB    0.00 s   1673 MB/s
+reload 2b_17.bin                     0.2 MB    0.00 s   6573 MB/s
+reload fa_17.bin                     0.2 MB    0.00 s   6984 MB/s
+spill  2bma_17                       0.2 MB    0.00 s   1837 MB/s
+mul    c_17                      0.2 + 0.2 MB  (direct)
+reload fa_17.bin                     0.2 MB    0.00 s   4718 MB/s
+reload 2bma_17.bin                   0.2 MB    0.00 s   4483 MB/s
+spill  c_17                          0.4 MB    0.00 s   1901 MB/s
+mul    c_17                      done  0.01 s
+reload fa_17.bin                     0.2 MB    0.00 s   5902 MB/s
+spill  a2_17                         0.4 MB    0.00 s   2029 MB/s
+reload fb_17.bin                     0.2 MB    0.00 s   4750 MB/s
+spill  b2_17                         0.4 MB    0.00 s   1896 MB/s
+reload a2_17.bin                     0.4 MB    0.00 s   8131 MB/s
+reload b2_17.bin                     0.4 MB    0.00 s   4138 MB/s
+spill  d_17                          0.4 MB    0.00 s   1882 MB/s
+reload c_17.bin                      0.4 MB    0.00 s   3925 MB/s
+reload d_17.bin                      0.4 MB    0.00 s   3287 MB/s
+spill  fa_16                         0.4 MB    0.00 s   2174 MB/s
+spill  fb_16                         0.4 MB    0.00 s   2291 MB/s
+fib    n=4577636               done  0.02 s
+fib    n=9155273               step odd
+reload fb_16.bin                     0.4 MB    0.00 s   4038 MB/s
+spill  2b_16                         0.4 MB    0.00 s   2173 MB/s
+reload 2b_16.bin                     0.4 MB    0.00 s   4069 MB/s
+reload fa_16.bin                     0.4 MB    0.00 s   3312 MB/s
+spill  2bma_16                       0.4 MB    0.00 s   2119 MB/s
+mul    c_16                      0.4 + 0.4 MB  (direct)
+reload fa_16.bin                     0.4 MB    0.00 s   3034 MB/s
+reload 2bma_16.bin                   0.4 MB    0.00 s   3281 MB/s
+spill  c_16                          0.8 MB    0.00 s   2205 MB/s
+mul    c_16                      done  0.02 s
+reload fa_16.bin                     0.4 MB    0.00 s   8265 MB/s
+spill  a2_16                         0.8 MB    0.00 s   2039 MB/s
+reload fb_16.bin                     0.4 MB    0.00 s   5337 MB/s
+spill  b2_16                         0.8 MB    0.00 s   2433 MB/s
+reload a2_16.bin                     0.8 MB    0.00 s  10072 MB/s
+reload b2_16.bin                     0.8 MB    0.00 s   6541 MB/s
+spill  d_16                          0.8 MB    0.00 s   2082 MB/s
+reload c_16.bin                      0.8 MB    0.00 s   3908 MB/s
+reload d_16.bin                      0.8 MB    0.00 s   3568 MB/s
+spill  cd_16                         0.8 MB    0.00 s   2443 MB/s
+reload d_16.bin                      0.8 MB    0.00 s   3466 MB/s
+reload cd_16.bin                     0.8 MB    0.00 s   3648 MB/s
+spill  fa_15                         0.8 MB    0.00 s   2490 MB/s
+spill  fb_15                         0.8 MB    0.00 s   2473 MB/s
+fib    n=9155273               done  0.04 s
+fib    n=18310546              step even
+reload fb_15.bin                     0.8 MB    0.00 s   4009 MB/s
+spill  2b_15                         0.8 MB    0.00 s   2327 MB/s
+reload 2b_15.bin                     0.8 MB    0.00 s   3956 MB/s
+reload fa_15.bin                     0.8 MB    0.00 s   3636 MB/s
+spill  2bma_15                       0.8 MB    0.00 s   2333 MB/s
+mul    c_15                      0.8 + 0.8 MB  (direct)
+reload fa_15.bin                     0.8 MB    0.00 s   3504 MB/s
+reload 2bma_15.bin                   0.8 MB    0.00 s   3613 MB/s
+spill  c_15                          1.6 MB    0.00 s   2490 MB/s
+mul    c_15                      done  0.04 s
+reload fa_15.bin                     0.8 MB    0.00 s   9648 MB/s
+spill  a2_15                         1.6 MB    0.00 s   2613 MB/s
+reload fb_15.bin                     0.8 MB    0.00 s   6699 MB/s
+spill  b2_15                         1.6 MB    0.00 s   2640 MB/s
+reload a2_15.bin                     1.6 MB    0.00 s  11941 MB/s
+reload b2_15.bin                     1.6 MB    0.00 s   6470 MB/s
+spill  d_15                          1.6 MB    0.00 s   2346 MB/s
+reload c_15.bin                      1.6 MB    0.00 s   3723 MB/s
+reload d_15.bin                      1.6 MB    0.00 s   3736 MB/s
+spill  fa_14                         1.6 MB    0.00 s   2653 MB/s
+spill  fb_14                         1.6 MB    0.00 s   2623 MB/s
+fib    n=18310546              done  0.09 s
+fib    n=36621093              step odd
+reload fb_14.bin                     1.6 MB    0.00 s  13273 MB/s
+spill  2b_14                         1.6 MB    0.00 s   2560 MB/s
+reload 2b_14.bin                     1.6 MB    0.00 s  13041 MB/s
+reload fa_14.bin                     1.6 MB    0.00 s  12499 MB/s
+spill  2bma_14                       1.6 MB    0.00 s   2513 MB/s
+mul    c_14                      1.6 + 1.6 MB  (direct)
+reload fa_14.bin                     1.6 MB    0.00 s   3237 MB/s
+reload 2bma_14.bin                   1.6 MB    0.00 s   3743 MB/s
+spill  c_14                          3.2 MB    0.00 s   2378 MB/s
+mul    c_14                      done  0.08 s
+reload fa_14.bin                     1.6 MB    0.00 s   4643 MB/s
+spill  a2_14                         3.2 MB    0.00 s   2134 MB/s
+reload fb_14.bin                     1.6 MB    0.00 s   2410 MB/s
+spill  b2_14                         3.2 MB    0.00 s   2451 MB/s
+reload a2_14.bin                     3.2 MB    0.00 s   6302 MB/s
+reload b2_14.bin                     3.2 MB    0.00 s   4815 MB/s
+spill  d_14                          3.2 MB    0.00 s   2309 MB/s
+reload c_14.bin                      3.2 MB    0.00 s   3699 MB/s
+reload d_14.bin                      3.2 MB    0.00 s   5146 MB/s
+spill  cd_14                         3.2 MB    0.00 s   2281 MB/s
+reload d_14.bin                      3.2 MB    0.00 s   3436 MB/s
+reload cd_14.bin                     3.2 MB    0.00 s   5785 MB/s
+spill  fa_13                         3.2 MB    0.00 s   2637 MB/s
+spill  fb_13                         3.2 MB    0.00 s   2443 MB/s
+fib    n=36621093              done  0.20 s
+fib    n=73242187              step odd
+reload fb_13.bin                     3.2 MB    0.00 s  12270 MB/s
+spill  2b_13                         3.2 MB    0.00 s   2229 MB/s
+reload 2b_13.bin                     3.2 MB    0.00 s  12344 MB/s
+reload fa_13.bin                     3.2 MB    0.00 s   7280 MB/s
+spill  2bma_13                       3.2 MB    0.00 s   2246 MB/s
+mul    c_13                      3.2 + 3.2 MB  (direct)
+reload fa_13.bin                     3.2 MB    0.00 s   3362 MB/s
+reload 2bma_13.bin                   3.2 MB    0.00 s   4993 MB/s
+spill  c_13                          6.4 MB    0.00 s   2209 MB/s
+mul    c_13                      done  0.17 s
+reload fa_13.bin                     3.2 MB    0.00 s   5009 MB/s
+spill  a2_13                         6.4 MB    0.00 s   2274 MB/s
+reload fb_13.bin                     3.2 MB    0.00 s   4187 MB/s
+spill  b2_13                         6.4 MB    0.00 s   2311 MB/s
+reload a2_13.bin                     6.4 MB    0.00 s   5237 MB/s
+reload b2_13.bin                     6.4 MB    0.00 s   4646 MB/s
+spill  d_13                          6.4 MB    0.00 s   2092 MB/s
+reload c_13.bin                      6.4 MB    0.00 s   4514 MB/s
+reload d_13.bin                      6.4 MB    0.00 s   4214 MB/s
+spill  cd_13                         6.4 MB    0.00 s   2087 MB/s
+reload d_13.bin                      6.4 MB    0.00 s   3960 MB/s
+reload cd_13.bin                     6.4 MB    0.00 s   4389 MB/s
+spill  fa_12                         6.4 MB    0.00 s   2231 MB/s
+spill  fb_12                         6.4 MB    0.00 s   2019 MB/s
+fib    n=73242187              done  0.44 s
+fib    n=146484375             step odd
+reload fb_12.bin                     6.4 MB    0.00 s   7618 MB/s
+spill  2b_12                         6.4 MB    0.00 s   2170 MB/s
+reload 2b_12.bin                     6.4 MB    0.00 s   7302 MB/s
+reload fa_12.bin                     6.4 MB    0.00 s   5328 MB/s
+spill  2bma_12                       6.4 MB    0.00 s   2105 MB/s
+mul    c_12                      6.4 + 6.4 MB  (direct)
+reload fa_12.bin                     6.4 MB    0.00 s   3977 MB/s
+reload 2bma_12.bin                   6.4 MB    0.00 s   4333 MB/s
+spill  c_12                         12.7 MB    0.01 s   1940 MB/s
+mul    c_12                      done  0.37 s
+reload fa_12.bin                     6.4 MB    0.00 s   5078 MB/s
+spill  a2_12                        12.7 MB    0.01 s   1955 MB/s
+reload fb_12.bin                     6.4 MB    0.00 s   4255 MB/s
+spill  b2_12                        12.7 MB    0.01 s   2053 MB/s
+reload a2_12.bin                    12.7 MB    0.00 s   5104 MB/s
+reload b2_12.bin                    12.7 MB    0.00 s   4072 MB/s
+spill  d_12                         12.7 MB    0.01 s   2047 MB/s
+reload c_12.bin                     12.7 MB    0.00 s   3964 MB/s
+reload d_12.bin                     12.7 MB    0.00 s   3779 MB/s
+spill  cd_12                        12.7 MB    0.01 s   1959 MB/s
+reload d_12.bin                     12.7 MB    0.00 s   3517 MB/s
+reload cd_12.bin                    12.7 MB    0.00 s   3765 MB/s
+spill  fa_11                        12.7 MB    0.01 s   2129 MB/s
+spill  fb_11                        12.7 MB    0.01 s   1925 MB/s
+fib    n=146484375             done  0.95 s
+fib    n=292968750             step even
+reload fb_11.bin                    12.7 MB    0.00 s   5027 MB/s
+spill  2b_11                        12.7 MB    0.01 s   2031 MB/s
+reload 2b_11.bin                    12.7 MB    0.00 s   5399 MB/s
+reload fa_11.bin                    12.7 MB    0.00 s   5127 MB/s
+spill  2bma_11                      12.7 MB    0.01 s   2044 MB/s
+mul    c_11                      12.7 + 12.7 MB  (direct)
+reload fa_11.bin                    12.7 MB    0.00 s   3445 MB/s
+reload 2bma_11.bin                  12.7 MB    0.00 s   3629 MB/s
+spill  c_11                         25.4 MB    0.01 s   1986 MB/s
+mul    c_11                      done  0.80 s
+reload fa_11.bin                    12.7 MB    0.00 s   5146 MB/s
+spill  a2_11                        25.4 MB    0.01 s   2007 MB/s
+reload fb_11.bin                    12.7 MB    0.00 s   4357 MB/s
+spill  b2_11                        25.4 MB    0.01 s   2002 MB/s
+reload a2_11.bin                    25.4 MB    0.00 s   5496 MB/s
+reload b2_11.bin                    25.4 MB    0.01 s   4301 MB/s
+spill  d_11                         25.4 MB    0.01 s   2081 MB/s
+reload c_11.bin                     25.4 MB    0.01 s   3988 MB/s
+reload d_11.bin                     25.4 MB    0.01 s   3774 MB/s
+spill  fa_10                        25.4 MB    0.01 s   2085 MB/s
+spill  fb_10                        25.4 MB    0.01 s   2068 MB/s
+fib    n=292968750             done  1.95 s
+fib    n=585937500             step even
+reload fb_10.bin                    25.4 MB    0.00 s   5298 MB/s
+spill  2b_10                        25.4 MB    0.01 s   2140 MB/s
+reload 2b_10.bin                    25.4 MB    0.00 s   5560 MB/s
+reload fa_10.bin                    25.4 MB    0.00 s   5271 MB/s
+spill  2bma_10                      25.4 MB    0.01 s   2096 MB/s
+mul    c_10                      25.4 + 25.4 MB  (direct)
+reload fa_10.bin                    25.4 MB    0.01 s   3308 MB/s
+reload 2bma_10.bin                  25.4 MB    0.01 s   3891 MB/s
+spill  c_10                         50.8 MB    0.03 s   1999 MB/s
+mul    c_10                      done  1.67 s
+reload fa_10.bin                    25.4 MB    0.00 s   5269 MB/s
+spill  a2_10                        50.8 MB    0.03 s   1989 MB/s
+reload fb_10.bin                    25.4 MB    0.01 s   3410 MB/s
+spill  b2_10                        50.8 MB    0.03 s   1935 MB/s
+reload a2_10.bin                    50.8 MB    0.01 s   3849 MB/s
+reload b2_10.bin                    50.8 MB    0.01 s   3695 MB/s
+spill  d_10                         50.8 MB    0.03 s   1980 MB/s
+reload c_10.bin                     50.8 MB    0.01 s   3875 MB/s
+reload d_10.bin                     50.8 MB    0.01 s   3809 MB/s
+spill  fa_9                         50.8 MB    0.03 s   1954 MB/s
+spill  fb_9                         50.8 MB    0.03 s   2002 MB/s
+fib    n=585937500             done  4.15 s
+fib    n=1171875000            step even
+reload fb_9.bin                     50.8 MB    0.01 s   3806 MB/s
+spill  2b_9                         50.8 MB    0.03 s   1996 MB/s
+reload 2b_9.bin                     50.8 MB    0.01 s   3882 MB/s
+reload fa_9.bin                     50.8 MB    0.01 s   3490 MB/s
+spill  2bma_9                       50.8 MB    0.03 s   1847 MB/s
+mul    c_9                       50.8 + 50.8 MB  (direct)
+reload fa_9.bin                     50.8 MB    0.02 s   3076 MB/s
+reload 2bma_9.bin                   50.8 MB    0.01 s   3714 MB/s
+spill  c_9                         101.7 MB    0.05 s   2012 MB/s
+mul    c_9                       done  3.73 s
+reload fa_9.bin                     50.8 MB    0.01 s   3651 MB/s
+spill  a2_9                        101.7 MB    0.05 s   1998 MB/s
+reload fb_9.bin                     50.8 MB    0.02 s   3363 MB/s
+spill  b2_9                        101.7 MB    0.05 s   1894 MB/s
+reload a2_9.bin                    101.7 MB    0.03 s   3906 MB/s
+reload b2_9.bin                    101.7 MB    0.03 s   3847 MB/s
+spill  d_9                         101.7 MB    0.05 s   1985 MB/s
+reload c_9.bin                     101.7 MB    0.03 s   3925 MB/s
+reload d_9.bin                     101.7 MB    0.03 s   3917 MB/s
+spill  fa_8                        101.7 MB    0.05 s   1944 MB/s
+spill  fb_8                        101.7 MB    0.05 s   1859 MB/s
+fib    n=1171875000            done  9.08 s
+fib    n=2343750000            step even
+reload fb_8.bin                    101.7 MB    0.03 s   3964 MB/s
+spill  2b_8                        101.7 MB    0.05 s   2007 MB/s
+reload 2b_8.bin                    101.7 MB    0.03 s   3916 MB/s
+reload fa_8.bin                    101.7 MB    0.03 s   3836 MB/s
+spill  2bma_8                      101.7 MB    0.05 s   1927 MB/s
+mul    c_8                       101.7 + 101.7 MB  (direct)
+reload fa_8.bin                    101.7 MB    0.03 s   3287 MB/s
+reload 2bma_8.bin                  101.7 MB    0.03 s   3818 MB/s
+spill  c_8                         203.4 MB    0.10 s   1943 MB/s
+mul    c_8                       done  7.62 s
+reload fa_8.bin                    101.7 MB    0.03 s   3746 MB/s
+spill  a2_8                        203.4 MB    0.11 s   1937 MB/s
+reload fb_8.bin                    101.7 MB    0.03 s   3461 MB/s
+spill  b2_8                        203.4 MB    0.11 s   1925 MB/s
+reload a2_8.bin                    203.4 MB    0.05 s   3906 MB/s
+reload b2_8.bin                    203.4 MB    0.05 s   3858 MB/s
+spill  d_8                         203.4 MB    0.10 s   1968 MB/s
+reload c_8.bin                     203.4 MB    0.05 s   3920 MB/s
+reload d_8.bin                     203.4 MB    0.05 s   3972 MB/s
+spill  fa_7                        203.4 MB    0.11 s   1931 MB/s
+spill  fb_7                        203.4 MB    0.10 s   1946 MB/s
+fib    n=2343750000            done  18.53 s
+fib    n=4687500000            step even
+reload fb_7.bin                    203.4 MB    0.05 s   3932 MB/s
+spill  2b_7                        203.4 MB    0.10 s   1965 MB/s
+reload 2b_7.bin                    203.4 MB    0.05 s   3917 MB/s
+reload fa_7.bin                    203.4 MB    0.05 s   3881 MB/s
+spill  2bma_7                      203.4 MB    0.11 s   1935 MB/s
+mul    c_7                       203.4 + 203.4 MB  (direct)
+reload fa_7.bin                    203.4 MB    0.06 s   3417 MB/s
+reload 2bma_7.bin                  203.4 MB    0.05 s   4038 MB/s
+spill  c_7                         406.8 MB    0.21 s   1964 MB/s
+mul    c_7                       done  16.25 s
+reload fa_7.bin                    203.4 MB    0.05 s   3815 MB/s
+spill  a2_7                        406.8 MB    0.20 s   2002 MB/s
+reload fb_7.bin                    203.4 MB    0.06 s   3417 MB/s
+spill  b2_7                        406.8 MB    0.22 s   1840 MB/s
+reload a2_7.bin                    406.8 MB    0.11 s   3864 MB/s
+reload b2_7.bin                    406.8 MB    0.10 s   3929 MB/s
+spill  d_7                         406.8 MB    0.20 s   2009 MB/s
+reload c_7.bin                     406.8 MB    0.10 s   3982 MB/s
+reload d_7.bin                     406.8 MB    0.11 s   3738 MB/s
+spill  fa_6                        406.8 MB    0.22 s   1829 MB/s
+spill  fb_6                        406.8 MB    0.21 s   1923 MB/s
+fib    n=4687500000            done  39.66 s
+fib    n=9375000000            step even
+reload fb_6.bin                    406.8 MB    0.10 s   3913 MB/s
+spill  2b_6                        406.8 MB    0.22 s   1863 MB/s
+reload 2b_6.bin                    406.8 MB    0.10 s   3973 MB/s
+reload fa_6.bin                    406.8 MB    0.10 s   3974 MB/s
+spill  2bma_6                      406.8 MB    0.20 s   2020 MB/s
+mul    c_6                       406.8 + 406.8 MB  (direct)
+reload fa_6.bin                    406.8 MB    0.12 s   3477 MB/s
+reload 2bma_6.bin                  406.8 MB    0.10 s   3997 MB/s
+spill  c_6                         813.6 MB    0.42 s   1936 MB/s
+mul    c_6                       done  32.77 s
+reload fa_6.bin                    406.8 MB    0.10 s   3908 MB/s
+spill  a2_6                        813.6 MB    0.42 s   1920 MB/s
+reload fb_6.bin                    406.8 MB    0.12 s   3436 MB/s
+spill  b2_6                        813.6 MB    0.40 s   2026 MB/s
+reload a2_6.bin                    813.6 MB    0.20 s   4032 MB/s
+reload b2_6.bin                    813.6 MB    0.20 s   4036 MB/s
+spill  d_6                         813.6 MB    0.42 s   1954 MB/s
+reload c_6.bin                     813.6 MB    0.20 s   4030 MB/s
+reload d_6.bin                     813.6 MB    0.20 s   4039 MB/s
+spill  fa_5                        813.6 MB    0.41 s   1989 MB/s
+spill  fb_5                        813.6 MB    0.41 s   1967 MB/s
+fib    n=9375000000            done  79.34 s
+fib    n=18750000000           step even
+reload fb_5.bin                    813.6 MB    0.20 s   3972 MB/s
+spill  2b_5                        813.6 MB    0.41 s   1979 MB/s
+reload 2b_5.bin                    813.6 MB    0.20 s   4046 MB/s
+reload fa_5.bin                    813.6 MB    0.21 s   3956 MB/s
+spill  2bma_5                      813.6 MB    0.40 s   2029 MB/s
+mul    c_5                       813.6 + 813.6 MB  (direct)
+reload fa_5.bin                    813.6 MB    0.23 s   3478 MB/s
+reload 2bma_5.bin                  813.6 MB    0.20 s   4023 MB/s
+spill  c_5                        1627.1 MB    0.81 s   2015 MB/s
+mul    c_5                       done  67.79 s
+reload fa_5.bin                    813.6 MB    0.21 s   3911 MB/s
+spill  a2_5                       1627.1 MB    0.81 s   2013 MB/s
+reload fb_5.bin                    813.6 MB    0.23 s   3523 MB/s
+spill  b2_5                       1627.1 MB    0.81 s   2013 MB/s
+reload a2_5.bin                   1627.1 MB    0.40 s   4094 MB/s
+reload b2_5.bin                   1627.1 MB    0.40 s   4042 MB/s
+spill  d_5                        1627.1 MB    0.81 s   2011 MB/s
+reload c_5.bin                    1627.1 MB    0.40 s   4073 MB/s
+reload d_5.bin                    1627.1 MB    0.40 s   4079 MB/s
+spill  fa_4                       1627.1 MB    0.81 s   2005 MB/s
+spill  fb_4                       1627.1 MB    0.81 s   2016 MB/s
+fib    n=18750000000           done  164.79 s
+fib    n=37500000000           step even
+reload fb_4.bin                   1627.1 MB    0.40 s   4045 MB/s
+spill  2b_4                       1627.1 MB    0.80 s   2027 MB/s
+reload 2b_4.bin                   1627.1 MB    0.40 s   4101 MB/s
+reload fa_4.bin                   1627.1 MB    0.41 s   3999 MB/s
+spill  2bma_4                     1627.1 MB    0.80 s   2029 MB/s
+mul    c_4                       1627.1 + 1627.1 MB  (direct)
+reload fa_4.bin                   1627.1 MB    0.46 s   3502 MB/s
+reload 2bma_4.bin                 1627.1 MB    0.39 s   4128 MB/s
+spill  c_4                        3254.3 MB    1.64 s   1981 MB/s
+mul    c_4                       done  155.50 s
+reload fa_4.bin                   1627.1 MB    0.41 s   3948 MB/s
+spill  a2_4                       3254.3 MB    1.68 s   1936 MB/s
+reload fb_4.bin                   1627.1 MB    0.47 s   3453 MB/s
+spill  b2_4                       3254.3 MB    1.62 s   2006 MB/s
+reload a2_4.bin                   3254.3 MB    0.79 s   4116 MB/s
+reload b2_4.bin                   3254.3 MB    0.80 s   4062 MB/s
+spill  d_4                        3254.3 MB    1.63 s   1992 MB/s
+reload c_4.bin                    3254.3 MB    0.80 s   4087 MB/s
+reload d_4.bin                    3254.3 MB    0.79 s   4105 MB/s
+spill  fa_3                       3254.3 MB    1.63 s   1999 MB/s
+spill  fb_3                       3254.3 MB    1.63 s   2000 MB/s
+fib    n=37500000000           done  376.82 s
+fib    n=75000000000           step even
+reload fb_3.bin                   3254.3 MB    0.79 s   4103 MB/s
+spill  2b_3                       3254.3 MB    1.64 s   1981 MB/s
+reload 2b_3.bin                   3254.3 MB    0.80 s   4078 MB/s
+reload fa_3.bin                   3254.3 MB    0.82 s   3984 MB/s
+spill  2bma_3                     3254.3 MB    2.45 s   1331 MB/s
+mul    c_3                       3254.3 + 3254.3 MB  (direct)
+reload fa_3.bin                   3254.3 MB    0.94 s   3478 MB/s
+reload 2bma_3.bin                 3254.3 MB    0.80 s   4091 MB/s
+spill  c_3                        6508.5 MB    3.32 s   1962 MB/s
+mul    c_3                       done  337.02 s
+reload fa_3.bin                   3254.3 MB    0.83 s   3924 MB/s
+spill  a2_3                       6508.5 MB    3.31 s   1969 MB/s
+reload fb_3.bin                   3254.3 MB    0.93 s   3485 MB/s
+spill  b2_3                       6508.5 MB    3.35 s   1941 MB/s
+reload a2_3.bin                   6508.5 MB    1.60 s   4072 MB/s
+reload b2_3.bin                   6508.5 MB    1.62 s   4020 MB/s
+spill  d_3                        6508.5 MB    5.77 s   1127 MB/s
+reload c_3.bin                    6508.5 MB    1.63 s   3997 MB/s
+reload d_3.bin                    6508.5 MB    1.64 s   3976 MB/s
+spill  fa_2                       6508.5 MB    3.42 s   1905 MB/s
+spill  fb_2                       6508.5 MB   11.63 s    560 MB/s
+fib    n=75000000000           done  834.25 s
+fib    n=150000000000          step even
+reload fb_2.bin                   6508.5 MB    1.64 s   3959 MB/s
+spill  2b_2                       6508.5 MB   12.09 s    538 MB/s
+reload 2b_2.bin                   6508.5 MB    1.63 s   4003 MB/s
+reload fa_2.bin                   6508.5 MB    1.63 s   3992 MB/s
+spill  2bma_2                     6508.5 MB   19.91 s    327 MB/s
+mul    c_2                       6508.5 + 6508.5 MB  (direct)
+reload fa_2.bin                   6508.5 MB    1.87 s   3482 MB/s
+reload 2bma_2.bin                 6508.5 MB    1.60 s   4076 MB/s
+spill  c_2                       13017.0 MB   12.02 s   1083 MB/s
+mul    c_2                       done  721.73 s
+reload fa_2.bin                   6508.5 MB   18.20 s    358 MB/s
+spill  a2_2                      13017.0 MB   13.78 s    944 MB/s
+reload fb_2.bin                   6508.5 MB   34.32 s    190 MB/s
+spill  b2_2                      13017.0 MB   12.04 s   1081 MB/s
+reload a2_2.bin                  13017.0 MB    5.20 s   2502 MB/s
+reload b2_2.bin                  13017.0 MB    3.20 s   4063 MB/s
+spill  d_2                       13017.0 MB   34.69 s    375 MB/s
+reload c_2.bin                   13017.0 MB   69.81 s    186 MB/s
+reload d_2.bin                   13017.0 MB    3.14 s   4149 MB/s
+spill  fa_1                      13017.0 MB   26.26 s    496 MB/s
+spill  fb_1                      13017.0 MB   57.43 s    227 MB/s
+fib    n=150000000000          done  1951.79 s
+fib    n=300000000000          step even
+reload fb_1.bin                  13017.0 MB    3.24 s   4019 MB/s
+spill  2b_1                      13017.0 MB   44.63 s    292 MB/s
+reload 2b_1.bin                  13017.0 MB    3.14 s   4145 MB/s
+reload fa_1.bin                  13017.0 MB    3.68 s   3540 MB/s
+spill  2bma_1                    13017.0 MB   39.46 s    330 MB/s
+mul    c_1                       13017.0 + 13017.0 MB  (Karatsuba)
+reload fa_1.bin                  13017.0 MB   70.79 s    184 MB/s
+reload 2bma_1.bin                13017.0 MB    3.20 s   4072 MB/s
+spill  al_1                       6508.5 MB    5.80 s   1122 MB/s
+spill  ah_1                       6508.5 MB   12.10 s    538 MB/s
+spill  bl_1                       6508.5 MB   22.50 s    289 MB/s
+spill  bh_1                       6508.5 MB   22.77 s    286 MB/s
+spill  sa_1                       6508.5 MB   17.40 s    374 MB/s
+spill  sb_1                       6508.5 MB   18.20 s    358 MB/s
+mul    z1_1                      6508.5 + 6508.5 MB  (direct)
+reload sa_1.bin                   6508.5 MB    1.66 s   3924 MB/s
+reload sb_1.bin                   6508.5 MB    2.26 s   2885 MB/s
+spill  z1_1                      13017.0 MB   12.04 s   1081 MB/s
+mul    z1_1                      done  725.31 s
+mul    z0_1                      6508.5 + 6508.5 MB  (direct)
+reload al_1.bin                   6508.5 MB   34.43 s    189 MB/s
+reload bl_1.bin                   6508.5 MB   30.38 s    214 MB/s
+spill  z0_1                      13017.0 MB   11.70 s   1113 MB/s
+mul    z0_1                      done  771.78 s
+mul    z2_1                      6508.5 + 6508.5 MB  (direct)
+reload ah_1.bin                   6508.5 MB   21.13 s    308 MB/s
+reload bh_1.bin                   6508.5 MB   22.51 s    289 MB/s
+spill  z2_1                      13017.0 MB   13.18 s    988 MB/s
+mul    z2_1                      done  759.67 s
+reload z0_1.bin                  13017.0 MB   41.36 s    315 MB/s
+reload z1_1.bin                  13017.0 MB   45.61 s    285 MB/s
+reload z2_1.bin                  13017.0 MB   34.06 s    382 MB/s
+spill  c_1                       26034.1 MB  125.95 s    207 MB/s
+mul    c_1                       done  2885.43 s
+reload fa_1.bin                  13017.0 MB   65.72 s    198 MB/s
+spill  a2_1                      26034.1 MB   70.55 s    369 MB/s
+reload fb_1.bin                  13017.0 MB   67.05 s    194 MB/s
+spill  b2_1                      26034.1 MB   69.80 s    373 MB/s
+reload a2_1.bin                  26034.1 MB  102.04 s    255 MB/s
+reload b2_1.bin                  26034.1 MB   67.23 s    387 MB/s
+spill  d_1                       26034.1 MB   81.18 s    321 MB/s
+reload c_1.bin                   26034.1 MB  102.62 s    254 MB/s
+reload d_1.bin                   26034.1 MB   64.14 s    406 MB/s
+spill  fn_out                    26034.1 MB   99.61 s    261 MB/s
+spill  fn1_out                   26034.1 MB   86.11 s    302 MB/s
+fib    n=300000000000          done  6219.59 s
+Doubling done in 9701.7 s
+Verifying modulo 10 primes...
+reload fn_out.bin                26034.1 MB   38.46 s    677 MB/s
+ok  mod 9223372036854775783
+ok  mod 9223372036854775643
+ok  mod 9223372036854774899
+ok  mod 9223372036854774847
+ok  mod 9223372036854774787
+ok  mod 9223372036854774629
+ok  mod 9223372036854774589
+ok  mod 9223372036854774523
+ok  mod 9223372036854774511
+ok  mod 9223372036854774421
+All checks passed. Total time: 9773.7 s
