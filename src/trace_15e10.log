@@ -886,3 +886,51 @@ reload 2bma_2.bin                 3254.3 MB    0.81 s   4029 MB/s
 spill  c_2                        6508.5 MB    3.35 s   1943 MB/s
 mul    c_2                       done  347.43 s
 reload fa_2.bin                   3254.3 MB    0.83 s   3929 MB/s
+spill  a2_2                       6508.5 MB    3.34 s   1947 MB/s
+reload fb_2.bin                   3254.3 MB    0.90 s   3596 MB/s
+spill  b2_2                       6508.5 MB    3.39 s   1917 MB/s
+reload a2_2.bin                   6508.5 MB    1.62 s   4016 MB/s
+reload b2_2.bin                   6508.5 MB    1.64 s   3963 MB/s
+spill  d_2                        6508.5 MB    6.17 s   1055 MB/s
+reload c_2.bin                    6508.5 MB    1.62 s   4016 MB/s
+reload d_2.bin                    6508.5 MB    1.64 s   3972 MB/s
+spill  fa_1                       6508.5 MB    3.52 s   1851 MB/s
+spill  fb_1                       6508.5 MB    6.20 s   1049 MB/s
+fib    n=75000000000           done  851.60 s
+fib    n=150000000000          step even
+reload fb_1.bin                   6508.5 MB    1.63 s   4001 MB/s
+spill  2b_1                       6508.5 MB    9.18 s    709 MB/s
+reload 2b_1.bin                   6508.5 MB    1.64 s   3966 MB/s
+reload fa_1.bin                   6508.5 MB    1.65 s   3938 MB/s
+spill  2bma_1                     6508.5 MB    8.49 s    767 MB/s
+mul    c_1                       6508.5 + 6508.5 MB  (direct)
+reload fa_1.bin                   6508.5 MB    1.89 s   3438 MB/s
+reload 2bma_1.bin                 6508.5 MB    1.66 s   3921 MB/s
+spill  c_1                       13017.0 MB   14.30 s    910 MB/s
+mul    c_1                       done  746.01 s
+reload fa_1.bin                   6508.5 MB   35.47 s    183 MB/s
+spill  a2_1                      13017.0 MB   13.98 s    931 MB/s
+reload fb_1.bin                   6508.5 MB   21.36 s    305 MB/s
+spill  b2_1                      13017.0 MB   12.37 s   1052 MB/s
+reload a2_1.bin                  13017.0 MB    9.64 s   1350 MB/s
+reload b2_1.bin                  13017.0 MB    3.31 s   3935 MB/s
+spill  d_1                       13017.0 MB   23.46 s    555 MB/s
+reload c_1.bin                   13017.0 MB   69.29 s    188 MB/s
+reload d_1.bin                   13017.0 MB    3.21 s   4055 MB/s
+spill  fn_out                    13017.0 MB   16.83 s    773 MB/s
+spill  fn1_out                   13017.0 MB   38.45 s    339 MB/s
+fib    n=150000000000          done  1966.21 s
+Doubling done in 3540.6 s
+Verifying modulo 10 primes...
+reload fn_out.bin                13017.0 MB    3.36 s   3869 MB/s
+ok  mod 9223372036854775783
+ok  mod 9223372036854775643
+ok  mod 9223372036854774899
+ok  mod 9223372036854774847
+ok  mod 9223372036854774787
+ok  mod 9223372036854774629
+ok  mod 9223372036854774589
+ok  mod 9223372036854774523
+ok  mod 9223372036854774511
+ok  mod 9223372036854774421
+All checks passed. Total time: 3560.5 s
